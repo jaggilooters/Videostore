@@ -1,4 +1,4 @@
-python-telegram-bot>=21.0
+telethon>=1.36
 google-cloud-firestore>=2.16
 aiohttp>=3.9
 python-dotenv>=1.0
